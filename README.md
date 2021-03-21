@@ -20,5 +20,6 @@ I will need to learn responsive design and adapt the site for mobile devices. No
 [Webref](https://webref.ru/recipe/2371) - This helped me to make horisontal line
 ## Author:
 [CodePen](https://codepen.io/icewarrior01/full/BaQXGLa)
+[Frontend Mentor](https://www.frontendmentor.io/solutions/html-css-xy32zk7s-)
 ## Acknowledgements:
 Thanks for Frontend Mentor, because I need practic for my studies
