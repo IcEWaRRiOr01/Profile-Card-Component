@@ -4,7 +4,7 @@
 Hello, I am beginner Front-End web developer. I am studying web development. I recently discovered a web site like "Frontend Mentor".
 I completed the first their challenge named Profile Card Component.
 ### Screenshot:
-Sorry, I can't insert screenshot of my work here? because GitHub rejects uploading any files while using proxy or vpn, and I can't do anything about it because GitHub is banned within the territory of country, where I live - Turkmenistan.
+![](Снимок экрана от 2021-03-21 13-48-56.png)
 ### Links:
 Here link to my work on CodePen - [Profile Card Component](https://codepen.io/icewarrior01/full/BaQXGLa)
 ## My process:
