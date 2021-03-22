@@ -2,7 +2,7 @@ body {
   background-color: hsl(185, 75%, 39%);
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
-  background-position: -60% 50%, 180% -50%;
+  background-position: -80% 250%, 220% -170%;
   background-repeat: no-repeat, no-repeat;
   font-size: 18px;
   font-family: "Kumbh Sans", sans-serif;
