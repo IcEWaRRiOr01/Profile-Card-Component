@@ -4,7 +4,7 @@
 Hello, I am beginner Front-End web developer. I am studying web development. I recently discovered a web site like "Frontend Mentor".
 I completed the first their challenge named Profile Card Component.
 ### Screenshot:
-![](Снимок экрана от 2021-03-21 13-48-56.png)
+![](./Снимок экрана от 2021-03-21 13-48-56.png)
 ### Links:
 Here link to my work on CodePen - [Profile Card Component](https://codepen.io/icewarrior01/full/BaQXGLa)
 ## My process:
